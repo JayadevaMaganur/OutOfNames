@@ -1,2 +1,1 @@
-# OutOfNames
-Web Application for the 100th time
+web app
